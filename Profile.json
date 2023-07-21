@@ -1,8 +1,20 @@
 [
-              "JDBC DEV",
-              "JDBC QA",
-              "ODBC DEV",
-              "ODBC QA",
-              "HDP DEV",
+  {
+              "JDBC DEV"
+  },
+  {
+              "JDBC QA"
+  },
+  {
+              "ODBC DEV"
+  },
+  {
+              "ODBC QA"
+  },
+  {
+              "HDP DEV"
+  },
+  {
               "HDP QA"
+  }
 ]
