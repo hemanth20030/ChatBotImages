@@ -1,8 +1,8 @@
 [
-  { "name": "JDBC DEV" },
-  { "name": "JDBC QA" },
-  { "name": "ODBC DEV" },
-  { "name": "ODBC QA" },
-  { "name": "HDP DEV" },
-  { "name": "HDP QA" }
+  { "title": "JDBC DEV" },
+  { "title": "JDBC QA" },
+  { "title": "ODBC DEV" },
+  { "title": "ODBC QA" },
+  { "title": "HDP DEV" },
+  { "title": "HDP QA" }
 ]
